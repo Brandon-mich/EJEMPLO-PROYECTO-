@@ -1,4 +1,4 @@
 from django.shortcuts import render
 
 def home(request):
-    return render(request, "suma/home.html") 
+    return render(request, "calculo_de_areas_figuras_planas/home.html") 
